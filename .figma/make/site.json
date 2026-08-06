@@ -1,0 +1,10 @@
+{
+  "description": "Organize and document exhibition records with an intuitive interface designed for artists and curators to manage and showcase their work efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
